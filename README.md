@@ -44,17 +44,6 @@ Built with Streamlit.
 
 ---
 
-## 🗂 Folder Structure
-
-project/
-│── app.py
-│── rag_pipeline.py
-│── build_vector_db.py
-│── requirements.txt
-│── data/ # Place your PDFs/TXT files here
-│── faiss_db/ # Auto-generated vector DB
-
-
 ## 🛠 Prerequisites
 
 ### 1️⃣ Install Python 3.10+  
